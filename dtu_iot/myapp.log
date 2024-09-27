@@ -1,0 +1,26 @@
+Thu, 21 Mar 2024 17:49:09 dtu_simulation.py[line:25] INFO HL01T_98765412389000 开始连接网关：10.4.142.210 22602
+Thu, 21 Mar 2024 17:49:09 dtu_simulation.py[line:26] INFO 发送认证报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:49:10 dtu_simulation.py[line:29] INFO HL01T_98765412389000认证成功，响应报文data：b'\x01\x03\x00\x01\x00\x01\xd5\xca'
+Thu, 21 Mar 2024 17:49:10 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:49:10 dtu_simulation.py[line:46] INFO HL01T_98765412389000 报文value：68 
+Thu, 21 Mar 2024 17:49:10 dtu_param.py[line:63] INFO [+]开始生成crc校验码，结果：b877
+Thu, 21 Mar 2024 17:49:10 dtu_param.py[line:25] INFO [+]当前请求的value值：44
+Thu, 21 Mar 2024 17:49:10 dtu_simulation.py[line:50] INFO HL01T_98765412389000发送数据报文：0103020044b877
+Thu, 21 Mar 2024 17:49:40 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:50:10 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:50:40 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:51:10 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:51:40 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:52:10 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:52:40 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:53:10 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:53:40 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:54:10 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:54:40 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:55:10 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:55:40 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:56:10 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:56:40 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:57:10 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
+Thu, 21 Mar 2024 17:57:34 dtu_simulation.py[line:53] INFO 数据响应报文：b'' 
+Thu, 21 Mar 2024 17:57:40 dtu_simulation.py[line:38] INFO 发送心跳报文：HL01T_98765412389000 
